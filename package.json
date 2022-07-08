@@ -9,7 +9,7 @@
     "test": "mocha 'tests/**/*.js'"
   },
   "author": "iigmir",
-  "license": "ISC",
+  "license": "GNU LGPLv3",
   "dependencies": {
     "jsdom": "^20.0.0"
   },
