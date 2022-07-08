@@ -1,0 +1,19 @@
+{
+  "name": "sartpage-parser",
+  "version": "1.0.0",
+  "description": "A parser converting search results on startpage.com into JSON APIs.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "fs": "node fs.js",
+    "test": "mocha 'tests/**/*.js'"
+  },
+  "author": "iigmir",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^20.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
